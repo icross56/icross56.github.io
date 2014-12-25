@@ -5,3 +5,8 @@ git checkout master
 git pull origin master
 git merge test
 git push origin master
+
+#fetch remote branch
+git branch -r 
+git fetch origin remote_branch
+
