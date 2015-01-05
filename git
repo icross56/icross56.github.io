@@ -10,3 +10,4 @@ git push origin master
 git branch -r 
 git fetch origin remote_branch
 
+#pull
